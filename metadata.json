@@ -1,0 +1,5 @@
+{
+  "name": "Retro RPG World Gen",
+  "description": "An infinite, procedurally generated 16-bit RPG world explorer based on a 128-bit seed using raw pixel art arrays.",
+  "requestFramePermissions": []
+}
